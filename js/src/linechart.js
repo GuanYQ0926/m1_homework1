@@ -10,7 +10,7 @@ function processData(raw_data_target, year, month){
     for(let d=0; d<raw_data_target.length; d++){
         for(let h=0; h<raw_data_target[0].length; h++){
             const temp_date = year.toString() + pad(month) + pad(d+1)+pad(h+1);
-            const temp_dict = {'date': temp_date, 'target':raw_data_target[d][h]};
+            const temp_dict = {'date': temp_date, 'rain':raw_data_target[d][h]};
             data.push(temp_dict);
         }
     }
