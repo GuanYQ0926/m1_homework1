@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang='en'>
+    <head>
+        <meta charset="utf-8" />
+        <title>rain information</title>
+        <style>
+            html, body{
+                width: 100%;
+                height: 100%;
+                margin: 0;
+            }
+            #map{
+                width: 100%;
+                height: 48%;
+                cursor: crosshair;
+            }
+            #info{
+                height: 20px;
+                float: left;
+            }
+            #date-selector{
+                height: 20px;
+                float: left;
+            }
+            #position-selector{
+                height: 20px;
+                float: right;
+                padding-left: 30px;
+            }
+        </style>
+        <style>
+        svg {
+            font: 10px sans-serif;
+        }
+        .axis path,
+        .axis line {
+            fill: none;
+            stroke: #000;
+            shape-rendering: crispEdges;
+        }
+
+        .y.axis path {
+            fill: none;
+            stroke: #000;
+            shape-rendering: crispEdges;
+        }
+
+        .brush .extent {
+            stroke: #fff;
+            fill-opacity: .125;
+            shape-rendering: crispEdges;
+        }
+
+        .line {
+            fill: none;
+        }
+        </style>
+    </head>
+    <body>
+        <div id="map"></div>
+        <div id="info">
+            <div id="date-selector"></div>
+            <div id="position-selector">data selected at lat:35.0, lng:135.8
+</div>
+        </div>
+        <div id="linechart"></div>
+        <script src="./dist/build.js"></script>
+    </body>
+</html>

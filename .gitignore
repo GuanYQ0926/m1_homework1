@@ -1,0 +1,6 @@
+.DS_Store
+.eslintrc.json
+.tern-project
+node_modules/
+asset/
+dist/
