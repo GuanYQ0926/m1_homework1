@@ -10,7 +10,7 @@ function processData(raw_data_target, year, month){
     for(let d=0; d<raw_data_target.length; d++){
         for(let h=0; h<raw_data_target[0].length; h++){
             const temp_date = year.toString() + pad(month) + pad(d+1)+pad(h+1);
-            const temp_dict = {'date': temp_date, 'target':raw_data_target[d][h], 'compared':raw_data_target[d][h]};
+            const temp_dict = {'date': temp_date, 'target':raw_data_target[d][h]};
             data.push(temp_dict);
         }
     }
@@ -26,7 +26,7 @@ export const drawLineChart = (raw_data_target, year, month) => {
         height2 = 360 - margin2.top - margin2.bottom;
 
     var color = d3.scale.ordinal()
-            .range(['#FA8072', '#4682b4']);//d3.scale.category10();
+            .range(['#4682b4']);//d3.scale.category10();
 
     var parseDate = d3.time.format('%Y%m%d%H').parse;
 
@@ -44,16 +44,16 @@ export const drawLineChart = (raw_data_target, year, month) => {
         .on('brush', brush);
 
     var line = d3.svg.line()
-        .defined(function(d) { return !isNaN(d.temperature); })
+        .defined(function(d) { return !isNaN(d.rain); })
         .interpolate('cubic')
         .x(function(d) { return x(d.date); })
-        .y(function(d) { return y(d.temperature); });
+        .y(function(d) { return y(d.rain); });
 
     var line2 = d3.svg.line()
-        .defined(function(d) { return !isNaN(d.temperature); })
+        .defined(function(d) { return !isNaN(d.rain); })
         .interpolate('cubic')
         .x(function(d) {return x2(d.date); })
-        .y(function(d) {return y2(d.temperature); });
+        .y(function(d) {return y2(d.rain); });
 
     var svg = d3.select('#linechart').append('svg')
         .attr('width', width + margin.left + margin.right)
@@ -84,14 +84,14 @@ export const drawLineChart = (raw_data_target, year, month) => {
         return {
             name: name,
             values: data.map(function(d) {
-                return {date: d.date, temperature: +d[name]};
+                return {date: d.date, rain: +d[name]};
             })
         };
     });
 
     x.domain(d3.extent(data, function(d) { return d.date; }));
-    y.domain([d3.min(sources, function(c) { return d3.min(c.values, function(v) { return v.temperature; }); }),
-        d3.max(sources, function(c) { return d3.max(c.values, function(v) { return v.temperature; }); }) ]);
+    y.domain([d3.min(sources, function(c) { return d3.min(c.values, function(v) { return v.rain; }); }),
+        d3.max(sources, function(c) { return d3.max(c.values, function(v) { return v.rain; }); }) ]);
     x2.domain(x.domain());
     y2.domain(y.domain());
 
