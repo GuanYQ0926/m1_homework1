@@ -14,7 +14,7 @@ def convertToJson():
     # month_list = []  # about 12 months
     # day_list = []  # 24 values
     curr_date = '205101'
-    while curr_date != '205512':
+    while curr_date != '210001':
         current_ncfilename = '../asset/netcdf/rain' + curr_date + '.nc'
         dataset = Dataset(current_ncfilename, 'r')
         # properties = []

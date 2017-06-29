@@ -35,6 +35,8 @@ def generate_command(current_ctlfilename):
             '''
             curr_ncfilename, next_ctlfilename = generate_filename(
                 current_ctlfilename)
+            f.write('grads\n')
+            f.write('\n')
             f.write('open ' + current_ctlfilename + '\n')
             f.write('set lon 135.6 135.8\n')
             f.write('set lat 34.8 35.2\n')
@@ -42,6 +44,8 @@ def generate_command(current_ctlfilename):
             f.write('define rain = rain\n')
             f.write('set sdfwrite ../netcdf/' + curr_ncfilename + '\n')
             f.write('sdfwrite rain\n')
+            f.write('quit\n')
+            f.write('\n')
             current_ctlfilename = next_ctlfilename
 
 

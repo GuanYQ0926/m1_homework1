@@ -1,3 +1,5 @@
+grads
+
 open surf_HFB_4K_CC_m101_205009_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -5,6 +7,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205009.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205010_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -12,6 +18,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205010.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205011_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -19,6 +29,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205011.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205012_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -26,6 +40,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205012.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205101_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -33,6 +51,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205101.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205102_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -40,6 +62,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205102.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205103_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -47,6 +73,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205103.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205104_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -54,6 +84,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205104.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205105_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -61,6 +95,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205105.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205106_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -68,6 +106,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205106.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205107_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -75,6 +117,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205107.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205108_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -82,6 +128,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205108.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205109_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -89,6 +139,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205109.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205110_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -96,6 +150,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205110.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205111_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -103,6 +161,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205111.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205112_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -110,6 +172,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205112.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205201_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -117,6 +183,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205201.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205202_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -124,6 +194,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205202.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205203_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -131,6 +205,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205203.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205204_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -138,6 +216,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205204.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205205_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -145,6 +227,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205205.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205206_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -152,6 +238,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205206.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205207_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -159,6 +249,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205207.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205208_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -166,6 +260,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205208.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205209_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -173,6 +271,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205209.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205210_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -180,6 +282,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205210.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205211_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -187,6 +293,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205211.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205212_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -194,6 +304,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205212.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205301_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -201,6 +315,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205301.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205302_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -208,6 +326,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205302.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205303_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -215,6 +337,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205303.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205304_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -222,6 +348,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205304.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205305_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -229,6 +359,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205305.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205306_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -236,6 +370,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205306.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205307_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -243,6 +381,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205307.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205308_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -250,6 +392,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205308.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205309_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -257,6 +403,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205309.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205310_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -264,6 +414,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205310.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205311_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -271,6 +425,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205311.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205312_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -278,6 +436,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205312.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205401_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -285,6 +447,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205401.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205402_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -292,6 +458,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205402.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205403_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -299,6 +469,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205403.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205404_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -306,6 +480,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205404.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205405_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -313,6 +491,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205405.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205406_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -320,6 +502,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205406.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205407_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -327,6 +513,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205407.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205408_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -334,6 +524,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205408.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205409_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -341,6 +535,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205409.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205410_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -348,6 +546,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205410.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205411_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -355,6 +557,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205411.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205412_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -362,6 +568,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205412.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205501_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -369,6 +579,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205501.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205502_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -376,6 +590,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205502.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205503_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -383,6 +601,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205503.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205504_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -390,6 +612,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205504.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205505_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -397,6 +623,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205505.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205506_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -404,6 +634,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205506.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205507_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -411,6 +645,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205507.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205508_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -418,6 +656,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205508.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205509_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -425,6 +667,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205509.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205510_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -432,6 +678,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205510.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205511_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -439,6 +689,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205511.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205512_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -446,6 +700,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205512.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205601_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -453,6 +711,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205601.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205602_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -460,6 +722,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205602.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205603_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -467,6 +733,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205603.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205604_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -474,6 +744,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205604.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205605_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -481,6 +755,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205605.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205606_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -488,6 +766,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205606.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205607_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -495,6 +777,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205607.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205608_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -502,6 +788,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205608.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205609_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -509,6 +799,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205609.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205610_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -516,6 +810,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205610.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205611_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -523,6 +821,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205611.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205612_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -530,6 +832,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205612.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205701_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -537,6 +843,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205701.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205702_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -544,6 +854,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205702.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205703_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -551,6 +865,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205703.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205704_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -558,6 +876,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205704.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205705_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -565,6 +887,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205705.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205706_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -572,6 +898,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205706.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205707_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -579,6 +909,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205707.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205708_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -586,6 +920,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205708.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205709_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -593,6 +931,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205709.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205710_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -600,6 +942,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205710.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205711_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -607,6 +953,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205711.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205712_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -614,6 +964,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205712.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205801_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -621,6 +975,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205801.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205802_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -628,6 +986,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205802.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205803_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -635,6 +997,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205803.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205804_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -642,6 +1008,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205804.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205805_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -649,6 +1019,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205805.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205806_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -656,6 +1030,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205806.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205807_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -663,6 +1041,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205807.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205808_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -670,6 +1052,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205808.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205809_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -677,6 +1063,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205809.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205810_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -684,6 +1074,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205810.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205811_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -691,6 +1085,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205811.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205812_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -698,6 +1096,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205812.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205901_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -705,6 +1107,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205901.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205902_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -712,6 +1118,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205902.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205903_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -719,6 +1129,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205903.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205904_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -726,6 +1140,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205904.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205905_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -733,6 +1151,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205905.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205906_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -740,6 +1162,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205906.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205907_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -747,6 +1173,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205907.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205908_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -754,6 +1184,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205908.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205909_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -761,6 +1195,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205909.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205910_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -768,6 +1206,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205910.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205911_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -775,6 +1217,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205911.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_205912_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -782,6 +1228,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain205912.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206001_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -789,6 +1239,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206001.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206002_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -796,6 +1250,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206002.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206003_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -803,6 +1261,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206003.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206004_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -810,6 +1272,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206004.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206005_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -817,6 +1283,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206005.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206006_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -824,6 +1294,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206006.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206007_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -831,6 +1305,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206007.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206008_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -838,6 +1316,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206008.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206009_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -845,6 +1327,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206009.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206010_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -852,6 +1338,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206010.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206011_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -859,6 +1349,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206011.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206012_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -866,6 +1360,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206012.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206101_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -873,6 +1371,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206101.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206102_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -880,6 +1382,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206102.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206103_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -887,6 +1393,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206103.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206104_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -894,6 +1404,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206104.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206105_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -901,6 +1415,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206105.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206106_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -908,6 +1426,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206106.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206107_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -915,6 +1437,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206107.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206108_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -922,6 +1448,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206108.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206109_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -929,6 +1459,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206109.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206110_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -936,6 +1470,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206110.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206111_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -943,6 +1481,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206111.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206112_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -950,6 +1492,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206112.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206201_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -957,6 +1503,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206201.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206202_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -964,6 +1514,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206202.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206203_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -971,6 +1525,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206203.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206204_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -978,6 +1536,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206204.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206205_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -985,6 +1547,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206205.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206206_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -992,6 +1558,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206206.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206207_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -999,6 +1569,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206207.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206208_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1006,6 +1580,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206208.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206209_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1013,6 +1591,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206209.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206210_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1020,6 +1602,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206210.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206211_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1027,6 +1613,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206211.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206212_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1034,6 +1624,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206212.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206301_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1041,6 +1635,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206301.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206302_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1048,6 +1646,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206302.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206303_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1055,6 +1657,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206303.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206304_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1062,6 +1668,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206304.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206305_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1069,6 +1679,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206305.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206306_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1076,6 +1690,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206306.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206307_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1083,6 +1701,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206307.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206308_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1090,6 +1712,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206308.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206309_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1097,6 +1723,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206309.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206310_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1104,6 +1734,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206310.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206311_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1111,6 +1745,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206311.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206312_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1118,6 +1756,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206312.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206401_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1125,6 +1767,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206401.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206402_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1132,6 +1778,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206402.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206403_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1139,6 +1789,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206403.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206404_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1146,6 +1800,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206404.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206405_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1153,6 +1811,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206405.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206406_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1160,6 +1822,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206406.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206407_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1167,6 +1833,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206407.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206408_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1174,6 +1844,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206408.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206409_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1181,6 +1855,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206409.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206410_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1188,6 +1866,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206410.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206411_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1195,6 +1877,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206411.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206412_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1202,6 +1888,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206412.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206501_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1209,6 +1899,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206501.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206502_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1216,6 +1910,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206502.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206503_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1223,6 +1921,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206503.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206504_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1230,6 +1932,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206504.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206505_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1237,6 +1943,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206505.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206506_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1244,6 +1954,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206506.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206507_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1251,6 +1965,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206507.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206508_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1258,6 +1976,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206508.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206509_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1265,6 +1987,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206509.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206510_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1272,6 +1998,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206510.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206511_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1279,6 +2009,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206511.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206512_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1286,6 +2020,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206512.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206601_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1293,6 +2031,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206601.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206602_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1300,6 +2042,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206602.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206603_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1307,6 +2053,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206603.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206604_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1314,6 +2064,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206604.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206605_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1321,6 +2075,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206605.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206606_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1328,6 +2086,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206606.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206607_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1335,6 +2097,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206607.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206608_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1342,6 +2108,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206608.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206609_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1349,6 +2119,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206609.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206610_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1356,6 +2130,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206610.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206611_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1363,6 +2141,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206611.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206612_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1370,6 +2152,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206612.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206701_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1377,6 +2163,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206701.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206702_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1384,6 +2174,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206702.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206703_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1391,6 +2185,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206703.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206704_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1398,6 +2196,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206704.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206705_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1405,6 +2207,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206705.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206706_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1412,6 +2218,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206706.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206707_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1419,6 +2229,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206707.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206708_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1426,6 +2240,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206708.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206709_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1433,6 +2251,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206709.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206710_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1440,6 +2262,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206710.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206711_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1447,6 +2273,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206711.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206712_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1454,6 +2284,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206712.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206801_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1461,6 +2295,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206801.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206802_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1468,6 +2306,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206802.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206803_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1475,6 +2317,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206803.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206804_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1482,6 +2328,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206804.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206805_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1489,6 +2339,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206805.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206806_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1496,6 +2350,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206806.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206807_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1503,6 +2361,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206807.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206808_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1510,6 +2372,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206808.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206809_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1517,6 +2383,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206809.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206810_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1524,6 +2394,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206810.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206811_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1531,6 +2405,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206811.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206812_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1538,6 +2416,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206812.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206901_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1545,6 +2427,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206901.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206902_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1552,6 +2438,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206902.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206903_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1559,6 +2449,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206903.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206904_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1566,6 +2460,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206904.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206905_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1573,6 +2471,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206905.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206906_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1580,6 +2482,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206906.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206907_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1587,6 +2493,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206907.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206908_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1594,6 +2504,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206908.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206909_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1601,6 +2515,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206909.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206910_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1608,6 +2526,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206910.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206911_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1615,6 +2537,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206911.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_206912_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1622,6 +2548,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain206912.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207001_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1629,6 +2559,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207001.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207002_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1636,6 +2570,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207002.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207003_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1643,6 +2581,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207003.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207004_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1650,6 +2592,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207004.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207005_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1657,6 +2603,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207005.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207006_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1664,6 +2614,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207006.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207007_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1671,6 +2625,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207007.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207008_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1678,6 +2636,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207008.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207009_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1685,6 +2647,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207009.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207010_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1692,6 +2658,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207010.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207011_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1699,6 +2669,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207011.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207012_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1706,6 +2680,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207012.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207101_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1713,6 +2691,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207101.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207102_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1720,6 +2702,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207102.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207103_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1727,6 +2713,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207103.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207104_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1734,6 +2724,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207104.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207105_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1741,6 +2735,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207105.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207106_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1748,6 +2746,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207106.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207107_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1755,6 +2757,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207107.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207108_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1762,6 +2768,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207108.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207109_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1769,6 +2779,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207109.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207110_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1776,6 +2790,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207110.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207111_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1783,6 +2801,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207111.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207112_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1790,6 +2812,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207112.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207201_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1797,6 +2823,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207201.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207202_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1804,6 +2834,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207202.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207203_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1811,6 +2845,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207203.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207204_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1818,6 +2856,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207204.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207205_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1825,6 +2867,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207205.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207206_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1832,6 +2878,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207206.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207207_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1839,6 +2889,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207207.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207208_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1846,6 +2900,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207208.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207209_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1853,6 +2911,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207209.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207210_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1860,6 +2922,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207210.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207211_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1867,6 +2933,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207211.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207212_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1874,6 +2944,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207212.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207301_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1881,6 +2955,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207301.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207302_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1888,6 +2966,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207302.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207303_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1895,6 +2977,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207303.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207304_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1902,6 +2988,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207304.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207305_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1909,6 +2999,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207305.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207306_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1916,6 +3010,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207306.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207307_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1923,6 +3021,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207307.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207308_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1930,6 +3032,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207308.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207309_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1937,6 +3043,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207309.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207310_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1944,6 +3054,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207310.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207311_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1951,6 +3065,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207311.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207312_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1958,6 +3076,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207312.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207401_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1965,6 +3087,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207401.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207402_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1972,6 +3098,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207402.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207403_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1979,6 +3109,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207403.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207404_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1986,6 +3120,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207404.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207405_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -1993,6 +3131,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207405.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207406_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2000,6 +3142,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207406.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207407_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2007,6 +3153,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207407.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207408_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2014,6 +3164,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207408.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207409_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2021,6 +3175,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207409.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207410_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2028,6 +3186,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207410.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207411_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2035,6 +3197,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207411.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207412_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2042,6 +3208,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207412.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207501_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2049,6 +3219,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207501.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207502_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2056,6 +3230,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207502.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207503_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2063,6 +3241,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207503.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207504_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2070,6 +3252,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207504.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207505_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2077,6 +3263,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207505.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207506_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2084,6 +3274,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207506.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207507_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2091,6 +3285,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207507.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207508_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2098,6 +3296,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207508.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207509_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2105,6 +3307,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207509.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207510_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2112,6 +3318,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207510.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207511_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2119,6 +3329,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207511.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207512_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2126,6 +3340,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207512.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207601_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2133,6 +3351,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207601.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207602_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2140,6 +3362,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207602.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207603_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2147,6 +3373,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207603.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207604_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2154,6 +3384,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207604.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207605_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2161,6 +3395,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207605.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207606_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2168,6 +3406,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207606.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207607_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2175,6 +3417,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207607.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207608_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2182,6 +3428,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207608.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207609_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2189,6 +3439,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207609.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207610_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2196,6 +3450,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207610.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207611_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2203,6 +3461,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207611.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207612_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2210,6 +3472,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207612.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207701_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2217,6 +3483,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207701.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207702_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2224,6 +3494,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207702.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207703_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2231,6 +3505,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207703.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207704_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2238,6 +3516,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207704.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207705_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2245,6 +3527,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207705.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207706_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2252,6 +3538,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207706.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207707_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2259,6 +3549,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207707.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207708_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2266,6 +3560,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207708.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207709_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2273,6 +3571,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207709.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207710_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2280,6 +3582,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207710.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207711_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2287,6 +3593,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207711.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207712_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2294,6 +3604,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207712.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207801_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2301,6 +3615,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207801.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207802_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2308,6 +3626,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207802.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207803_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2315,6 +3637,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207803.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207804_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2322,6 +3648,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207804.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207805_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2329,6 +3659,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207805.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207806_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2336,6 +3670,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207806.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207807_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2343,6 +3681,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207807.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207808_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2350,6 +3692,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207808.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207809_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2357,6 +3703,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207809.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207810_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2364,6 +3714,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207810.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207811_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2371,6 +3725,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207811.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207812_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2378,6 +3736,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207812.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207901_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2385,6 +3747,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207901.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207902_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2392,6 +3758,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207902.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207903_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2399,6 +3769,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207903.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207904_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2406,6 +3780,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207904.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207905_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2413,6 +3791,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207905.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207906_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2420,6 +3802,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207906.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207907_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2427,6 +3813,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207907.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207908_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2434,6 +3824,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207908.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207909_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2441,6 +3835,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207909.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207910_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2448,6 +3846,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207910.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207911_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2455,6 +3857,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207911.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_207912_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2462,6 +3868,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain207912.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208001_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2469,6 +3879,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208001.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208002_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2476,6 +3890,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208002.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208003_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2483,6 +3901,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208003.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208004_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2490,6 +3912,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208004.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208005_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2497,6 +3923,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208005.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208006_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2504,6 +3934,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208006.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208007_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2511,6 +3945,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208007.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208008_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2518,6 +3956,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208008.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208009_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2525,6 +3967,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208009.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208010_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2532,6 +3978,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208010.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208011_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2539,6 +3989,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208011.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208012_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2546,6 +4000,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208012.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208101_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2553,6 +4011,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208101.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208102_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2560,6 +4022,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208102.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208103_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2567,6 +4033,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208103.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208104_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2574,6 +4044,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208104.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208105_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2581,6 +4055,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208105.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208106_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2588,6 +4066,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208106.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208107_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2595,6 +4077,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208107.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208108_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2602,6 +4088,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208108.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208109_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2609,6 +4099,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208109.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208110_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2616,6 +4110,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208110.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208111_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2623,6 +4121,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208111.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208112_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2630,6 +4132,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208112.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208201_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2637,6 +4143,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208201.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208202_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2644,6 +4154,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208202.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208203_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2651,6 +4165,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208203.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208204_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2658,6 +4176,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208204.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208205_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2665,6 +4187,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208205.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208206_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2672,6 +4198,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208206.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208207_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2679,6 +4209,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208207.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208208_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2686,6 +4220,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208208.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208209_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2693,6 +4231,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208209.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208210_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2700,6 +4242,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208210.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208211_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2707,6 +4253,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208211.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208212_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2714,6 +4264,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208212.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208301_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2721,6 +4275,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208301.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208302_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2728,6 +4286,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208302.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208303_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2735,6 +4297,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208303.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208304_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2742,6 +4308,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208304.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208305_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2749,6 +4319,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208305.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208306_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2756,6 +4330,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208306.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208307_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2763,6 +4341,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208307.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208308_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2770,6 +4352,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208308.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208309_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2777,6 +4363,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208309.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208310_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2784,6 +4374,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208310.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208311_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2791,6 +4385,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208311.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208312_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2798,6 +4396,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208312.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208401_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2805,6 +4407,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208401.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208402_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2812,6 +4418,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208402.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208403_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2819,6 +4429,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208403.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208404_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2826,6 +4440,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208404.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208405_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2833,6 +4451,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208405.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208406_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2840,6 +4462,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208406.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208407_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2847,6 +4473,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208407.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208408_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2854,6 +4484,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208408.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208409_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2861,6 +4495,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208409.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208410_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2868,6 +4506,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208410.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208411_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2875,6 +4517,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208411.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208412_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2882,6 +4528,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208412.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208501_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2889,6 +4539,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208501.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208502_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2896,6 +4550,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208502.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208503_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2903,6 +4561,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208503.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208504_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2910,6 +4572,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208504.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208505_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2917,6 +4583,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208505.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208506_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2924,6 +4594,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208506.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208507_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2931,6 +4605,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208507.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208508_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2938,6 +4616,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208508.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208509_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2945,6 +4627,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208509.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208510_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2952,6 +4638,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208510.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208511_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2959,6 +4649,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208511.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208512_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2966,6 +4660,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208512.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208601_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2973,6 +4671,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208601.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208602_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2980,6 +4682,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208602.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208603_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2987,6 +4693,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208603.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208604_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -2994,6 +4704,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208604.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208605_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3001,6 +4715,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208605.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208606_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3008,6 +4726,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208606.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208607_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3015,6 +4737,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208607.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208608_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3022,6 +4748,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208608.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208609_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3029,6 +4759,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208609.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208610_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3036,6 +4770,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208610.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208611_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3043,6 +4781,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208611.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208612_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3050,6 +4792,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208612.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208701_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3057,6 +4803,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208701.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208702_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3064,6 +4814,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208702.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208703_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3071,6 +4825,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208703.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208704_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3078,6 +4836,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208704.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208705_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3085,6 +4847,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208705.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208706_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3092,6 +4858,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208706.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208707_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3099,6 +4869,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208707.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208708_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3106,6 +4880,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208708.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208709_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3113,6 +4891,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208709.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208710_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3120,6 +4902,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208710.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208711_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3127,6 +4913,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208711.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208712_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3134,6 +4924,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208712.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208801_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3141,6 +4935,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208801.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208802_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3148,6 +4946,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208802.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208803_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3155,6 +4957,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208803.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208804_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3162,6 +4968,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208804.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208805_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3169,6 +4979,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208805.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208806_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3176,6 +4990,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208806.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208807_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3183,6 +5001,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208807.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208808_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3190,6 +5012,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208808.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208809_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3197,6 +5023,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208809.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208810_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3204,6 +5034,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208810.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208811_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3211,6 +5045,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208811.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208812_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3218,6 +5056,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208812.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208901_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3225,6 +5067,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208901.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208902_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3232,6 +5078,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208902.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208903_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3239,6 +5089,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208903.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208904_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3246,6 +5100,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208904.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208905_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3253,6 +5111,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208905.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208906_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3260,6 +5122,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208906.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208907_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3267,6 +5133,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208907.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208908_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3274,6 +5144,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208908.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208909_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3281,6 +5155,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208909.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208910_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3288,6 +5166,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208910.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208911_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3295,6 +5177,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208911.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_208912_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3302,6 +5188,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain208912.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209001_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3309,6 +5199,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209001.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209002_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3316,6 +5210,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209002.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209003_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3323,6 +5221,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209003.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209004_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3330,6 +5232,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209004.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209005_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3337,6 +5243,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209005.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209006_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3344,6 +5254,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209006.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209007_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3351,6 +5265,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209007.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209008_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3358,6 +5276,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209008.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209009_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3365,6 +5287,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209009.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209010_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3372,6 +5298,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209010.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209011_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3379,6 +5309,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209011.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209012_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3386,6 +5320,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209012.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209101_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3393,6 +5331,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209101.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209102_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3400,6 +5342,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209102.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209103_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3407,6 +5353,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209103.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209104_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3414,6 +5364,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209104.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209105_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3421,6 +5375,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209105.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209106_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3428,6 +5386,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209106.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209107_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3435,6 +5397,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209107.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209108_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3442,6 +5408,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209108.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209109_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3449,6 +5419,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209109.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209110_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3456,6 +5430,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209110.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209111_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3463,6 +5441,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209111.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209112_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3470,6 +5452,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209112.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209201_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3477,6 +5463,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209201.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209202_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3484,6 +5474,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209202.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209203_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3491,6 +5485,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209203.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209204_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3498,6 +5496,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209204.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209205_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3505,6 +5507,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209205.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209206_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3512,6 +5518,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209206.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209207_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3519,6 +5529,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209207.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209208_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3526,6 +5540,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209208.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209209_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3533,6 +5551,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209209.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209210_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3540,6 +5562,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209210.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209211_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3547,6 +5573,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209211.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209212_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3554,6 +5584,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209212.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209301_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3561,6 +5595,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209301.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209302_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3568,6 +5606,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209302.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209303_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3575,6 +5617,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209303.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209304_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3582,6 +5628,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209304.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209305_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3589,6 +5639,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209305.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209306_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3596,6 +5650,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209306.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209307_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3603,6 +5661,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209307.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209308_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3610,6 +5672,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209308.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209309_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3617,6 +5683,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209309.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209310_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3624,6 +5694,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209310.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209311_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3631,6 +5705,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209311.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209312_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3638,6 +5716,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209312.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209401_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3645,6 +5727,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209401.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209402_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3652,6 +5738,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209402.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209403_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3659,6 +5749,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209403.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209404_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3666,6 +5760,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209404.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209405_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3673,6 +5771,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209405.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209406_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3680,6 +5782,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209406.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209407_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3687,6 +5793,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209407.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209408_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3694,6 +5804,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209408.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209409_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3701,6 +5815,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209409.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209410_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3708,6 +5826,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209410.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209411_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3715,6 +5837,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209411.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209412_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3722,6 +5848,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209412.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209501_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3729,6 +5859,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209501.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209502_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3736,6 +5870,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209502.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209503_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3743,6 +5881,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209503.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209504_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3750,6 +5892,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209504.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209505_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3757,6 +5903,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209505.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209506_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3764,6 +5914,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209506.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209507_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3771,6 +5925,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209507.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209508_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3778,6 +5936,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209508.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209509_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3785,6 +5947,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209509.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209510_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3792,6 +5958,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209510.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209511_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3799,6 +5969,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209511.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209512_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3806,6 +5980,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209512.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209601_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3813,6 +5991,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209601.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209602_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3820,6 +6002,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209602.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209603_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3827,6 +6013,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209603.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209604_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3834,6 +6024,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209604.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209605_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3841,6 +6035,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209605.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209606_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3848,6 +6046,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209606.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209607_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3855,6 +6057,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209607.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209608_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3862,6 +6068,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209608.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209609_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3869,6 +6079,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209609.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209610_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3876,6 +6090,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209610.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209611_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3883,6 +6101,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209611.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209612_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3890,6 +6112,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209612.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209701_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3897,6 +6123,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209701.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209702_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3904,6 +6134,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209702.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209703_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3911,6 +6145,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209703.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209704_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3918,6 +6156,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209704.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209705_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3925,6 +6167,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209705.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209706_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3932,6 +6178,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209706.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209707_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3939,6 +6189,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209707.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209708_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3946,6 +6200,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209708.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209709_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3953,6 +6211,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209709.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209710_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3960,6 +6222,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209710.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209711_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3967,6 +6233,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209711.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209712_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3974,6 +6244,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209712.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209801_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3981,6 +6255,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209801.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209802_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3988,6 +6266,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209802.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209803_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -3995,6 +6277,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209803.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209804_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -4002,6 +6288,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209804.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209805_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -4009,6 +6299,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209805.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209806_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -4016,6 +6310,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209806.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209807_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -4023,6 +6321,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209807.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209808_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -4030,6 +6332,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209808.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209809_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -4037,6 +6343,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209809.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209810_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -4044,6 +6354,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209810.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209811_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -4051,6 +6365,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209811.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209812_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -4058,6 +6376,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209812.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209901_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -4065,6 +6387,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209901.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209902_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -4072,6 +6398,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209902.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209903_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -4079,6 +6409,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209903.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209904_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -4086,6 +6420,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209904.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209905_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -4093,6 +6431,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209905.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209906_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -4100,6 +6442,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209906.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209907_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -4107,6 +6453,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209907.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209908_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -4114,6 +6464,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209908.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209909_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -4121,6 +6475,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209909.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209910_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -4128,6 +6486,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209910.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209911_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -4135,6 +6497,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209911.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_209912_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -4142,6 +6508,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain209912.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_210001_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -4149,6 +6519,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain210001.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_210002_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -4156,6 +6530,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain210002.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_210003_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -4163,6 +6541,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain210003.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_210004_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -4170,6 +6552,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain210004.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_210005_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -4177,6 +6563,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain210005.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_210006_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -4184,6 +6574,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain210006.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_210007_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -4191,6 +6585,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain210007.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_210008_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -4198,6 +6596,10 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain210008.nc
 sdfwrite rain
+quit
+
+grads
+
 open surf_HFB_4K_CC_m101_210009_rain_subset.ctl
 set lon 135.6 135.8
 set lat 34.8 35.2
@@ -4205,3 +6607,5 @@ set t 1 last
 define rain = rain
 set sdfwrite ../netcdf/rain210009.nc
 sdfwrite rain
+quit
+

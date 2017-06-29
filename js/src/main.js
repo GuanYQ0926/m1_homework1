@@ -85,7 +85,7 @@ const circle4 = L.circle([35.2, 135.6], 9000, {weight: 0, fillOpacity:0.2}).addT
 circle4.on('click', () => {
     selected_position = '35.2_135.6';
     $('#position-selector').empty();
-    $('#position-selector').append('data selected at lat:35.0, lng:135.6');
+    $('#position-selector').append('data selected at lat:35.2, lng:135.6');
     circle4.setStyle({fillColor: 'red'});
     circle0.setStyle({fillColor: 'blue'});
     circle1.setStyle({fillColor: 'blue'});
@@ -112,7 +112,7 @@ circle5.on('click', () => {
 
 // generate date selector
 $('#date-selector').append('<form id="selected-form"> date: <select id="year"></select><select id="month"></select></form>');
-for(let y=2051;y<=2055;y++){
+for(let y=2051;y<=2099;y++){
     $('#year').append(`<option value="${y}">${y}</option>`);
 }
 for(let m=1;m<=12;m++){
